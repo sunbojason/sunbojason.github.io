@@ -73,6 +73,24 @@
     </item>
     
     <item>
+      <title>Seamless Active Morphing Wing</title>
+      <link>https://sunbojason.github.io/project/smartx/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/smartx/</guid>
+      <description>&lt;p&gt;Inspired by birds, &lt;a href=&#34;https://www.tudelft.nl/lr/smartx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmartX&lt;/a&gt; project strives to develop a wing that can actively absorb gusts of wind. With seamlessly interconnected morphing trailing edge modules, the wing has the capability of active morphing, i.e., able to adapt its shape in different flight conditions for improving the aerodynamic performance in a controlled way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Control for Aeroelastic Systems</title>
+      <link>https://sunbojason.github.io/project/aeroelastic/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/aeroelastic/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Intelligent Adaptive Control Using LADP and IADP Applied to F-16 Aircraft with Imperfect Measurements</title>
       <link>https://sunbojason.github.io/publication/cf_2021_aiaa_scitech_jose/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
@@ -317,11 +335,171 @@ Three
     </item>
     
     <item>
+      <title>Aircraft Guidance Law Design and Analysis</title>
+      <link>https://sunbojason.github.io/project/guidance-law/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/guidance-law/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hardware-in-the-loop simulation</title>
+      <link>https://sunbojason.github.io/project/hardware-simulation/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/hardware-simulation/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reliability Analysis</title>
       <link>https://sunbojason.github.io/project/reliability/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://sunbojason.github.io/project/reliability/</guid>
       <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Funded National Undergraduate Training Programs</title>
+      <link>https://sunbojason.github.io/project/undergraduate-innovation/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/undergraduate-innovation/</guid>
+      <description>&lt;p&gt;All these three programs were fully &lt;em&gt;funded&lt;/em&gt; by the national funding with 20,000 RMB, and won the &lt;em&gt;excellent conclusion (&amp;lt;20%)&lt;/em&gt;. Each program involves 5 undergraduate students as team members and 1 professor as the supervisor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Application of Rehabilitation Training Based on Kinect (Team leader)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;May 2015 - May 2016&lt;/li&gt;
+&lt;li&gt;ID: 201510699024&lt;/li&gt;
+&lt;li&gt;Planed to integrate virtual reality technology and medical technology rationally for human health monitoring and rehabilitation training with machine learning algorithm.&lt;/li&gt;
+&lt;li&gt;Worked as team leader, provided project’s idea and supervised team activities.&lt;/li&gt;
+&lt;li&gt;Designed the motion control system and its subsidiary circuit, and participated in information collection and program debugging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Street Light Control System Based on Power Line Carrier and Multi-sensor Fusion Technology&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;May 2015 - May 2016&lt;/li&gt;
+&lt;li&gt;ID: 201510699295&lt;/li&gt;
+&lt;li&gt;Utilized a variety of sensors and off-line database to integrate street lighting system intelligently and decrease energy consumption with power line carrier communication.&lt;/li&gt;
+&lt;li&gt;Provided project’s idea and undertook all electronic circuit design, communication protocol development and embedded systems programming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wearable Frogman Swimming Aid&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oct 2014 - May 2015&lt;/li&gt;
+&lt;li&gt;ID: 201410699012&lt;/li&gt;
+&lt;li&gt;Developed a portable and wearable swimming aid that could be worn on arms to free hands while swimming.&lt;/li&gt;
+&lt;li&gt;Optimized the control system and completed embedded programs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-wearable-frogman-swimming-aid&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wearable Frogman Swimming Aid&#34; srcset=&#34;
+               /project/undergraduate-innovation/frogman_huab03d482b9c905d0f616dac9eb297215_807115_f0e263fe02cc366291a6d8eefa965cda.png 400w,
+               /project/undergraduate-innovation/frogman_huab03d482b9c905d0f616dac9eb297215_807115_50e437ddd21493a1831904a66f3b5b59.png 760w,
+               /project/undergraduate-innovation/frogman_huab03d482b9c905d0f616dac9eb297215_807115_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sunbojason.github.io/project/undergraduate-innovation/frogman_huab03d482b9c905d0f616dac9eb297215_807115_f0e263fe02cc366291a6d8eefa965cda.png&#34;
+               width=&#34;760&#34;
+               height=&#34;442&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Wearable Frogman Swimming Aid.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dancing Robot Association</title>
+      <link>https://sunbojason.github.io/project/dancing-robot/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/dancing-robot/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;National Robot Competition and RoboCup Competition (RoboCup@Dance) &lt;em&gt;First Prize&lt;/em&gt; 2014&lt;/li&gt;
+&lt;li&gt;National Robot Competition and RoboCup Competition (RoboCup@Home) &lt;em&gt;First Prize&lt;/em&gt; 2014&lt;/li&gt;
+&lt;li&gt;National Service Robot Competition &lt;em&gt;Champion&lt;/em&gt; 2014&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-human-shape-dancing-robot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Human-shape dancing robot&#34; srcset=&#34;
+               /project/dancing-robot/Picture1_hu84eb9ee33792999356ac11a008355ba5_421037_1aa972f949695f5dec70de68a3b090c2.png 400w,
+               /project/dancing-robot/Picture1_hu84eb9ee33792999356ac11a008355ba5_421037_067487c3813ede1b9593b84a2412a0f3.png 760w,
+               /project/dancing-robot/Picture1_hu84eb9ee33792999356ac11a008355ba5_421037_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sunbojason.github.io/project/dancing-robot/Picture1_hu84eb9ee33792999356ac11a008355ba5_421037_1aa972f949695f5dec70de68a3b090c2.png&#34;
+               width=&#34;737&#34;
+               height=&#34;492&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Human-shape dancing robot.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-omnipotent-robot-xiao-meng-third-generation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Xiao Meng&#34; srcset=&#34;
+               /project/dancing-robot/Picture2_hud3862a03518c493b008dbcbbcd88d9ed_416603_e10d00c54c3286775bca0f946b3efe3c.png 400w,
+               /project/dancing-robot/Picture2_hud3862a03518c493b008dbcbbcd88d9ed_416603_224798cac46624c5c3693a1b80ae61a3.png 760w,
+               /project/dancing-robot/Picture2_hud3862a03518c493b008dbcbbcd88d9ed_416603_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://sunbojason.github.io/project/dancing-robot/Picture2_hud3862a03518c493b008dbcbbcd88d9ed_416603_e10d00c54c3286775bca0f946b3efe3c.png&#34;
+               width=&#34;540&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Omnipotent robot &amp;lsquo;Xiao Meng&amp;rsquo; (third generation).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
