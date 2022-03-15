@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Bo Sun</title>
+    <link>https://sunbojason.github.io/publication-type/2/</link>
+      <atom:link href="https://sunbojason.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019-2022</copyright><lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sunbojason.github.io/media/icon_hu1f4ad1c3501d1dfcfc952341de7a2bc5_52264_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://sunbojason.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Event-Triggered Intelligent Critic Control with Input Constraints Applied to a Nonlinear Aeroelastic System</title>
+      <link>https://sunbojason.github.io/publication/jr_2022_ast/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2022_ast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Triggered Constrained Control Using Explainable Global Dual Heuristic Programming for Nonlinear Discrete-Time Systems</title>
+      <link>https://sunbojason.github.io/publication/jr_2022_neucom/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2022_neucom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement-Learning-Based Adaptive Optimal Flight Control with Output Feedback and Input Constraints</title>
+      <link>https://sunbojason.github.io/publication/jr_2021_jgcd/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2021_jgcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent adaptive optimal control using incremental model-based global dual heuristic programming subject to partial observability</title>
+      <link>https://sunbojason.github.io/publication/jr_2021_asc/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2021_asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient method combining active learning Kriging and Monte Carlo simulation for profust failure probability</title>
+      <link>https://sunbojason.github.io/publication/jr_2020_fss_chunyan/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2020_fss_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental model-based global dual heuristic programming with explicit analytical calculations applied to flight control</title>
+      <link>https://sunbojason.github.io/publication/jr_2020_eaai/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2020_eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient method for estimating global reliability sensitivity indices</title>
+      <link>https://sunbojason.github.io/publication/jr_2019_pem_chunyan/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2019_pem_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical simulation methods for estimating fuzzy failure probability based importance measure indices</title>
+      <link>https://sunbojason.github.io/publication/jr_2019_smo_chunyan/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2019_smo_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-Dimensional Nonlinear Differential Game-based Guidance Law Against High-speed Maneuvering Target</title>
+      <link>https://sunbojason.github.io/publication/jr_2018_dandao/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2018_dandao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

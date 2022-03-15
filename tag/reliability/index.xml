@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reliability | Bo Sun</title>
+    <link>https://sunbojason.github.io/tag/reliability/</link>
+      <atom:link href="https://sunbojason.github.io/tag/reliability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reliability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019-2022</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sunbojason.github.io/media/icon_hu1f4ad1c3501d1dfcfc952341de7a2bc5_52264_512x512_fill_lanczos_center_3.png</url>
+      <title>Reliability</title>
+      <link>https://sunbojason.github.io/tag/reliability/</link>
+    </image>
+    
+    <item>
+      <title>An efficient method combining active learning Kriging and Monte Carlo simulation for profust failure probability</title>
+      <link>https://sunbojason.github.io/publication/jr_2020_fss_chunyan/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2020_fss_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient method for estimating global reliability sensitivity indices</title>
+      <link>https://sunbojason.github.io/publication/jr_2019_pem_chunyan/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2019_pem_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical simulation methods for estimating fuzzy failure probability based importance measure indices</title>
+      <link>https://sunbojason.github.io/publication/jr_2019_smo_chunyan/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2019_smo_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Analysis</title>
+      <link>https://sunbojason.github.io/project/reliability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/reliability/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

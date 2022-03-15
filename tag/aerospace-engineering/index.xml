@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerospace Engineering | Bo Sun</title>
+    <link>https://sunbojason.github.io/tag/aerospace-engineering/</link>
+      <atom:link href="https://sunbojason.github.io/tag/aerospace-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aerospace Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019-2022</copyright><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sunbojason.github.io/media/icon_hu1f4ad1c3501d1dfcfc952341de7a2bc5_52264_512x512_fill_lanczos_center_3.png</url>
+      <title>Aerospace Engineering</title>
+      <link>https://sunbojason.github.io/tag/aerospace-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Intelligent Aircraft Stabilization Control with Event-Triggered Scheme</title>
+      <link>https://sunbojason.github.io/publication/cf_2022_caes_eurognc/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/cf_2022_caes_eurognc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Triggered Intelligent Critic Control with Input Constraints Applied to a Nonlinear Aeroelastic System</title>
+      <link>https://sunbojason.github.io/publication/jr_2022_ast/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2022_ast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Triggered Constrained Control Using Explainable Global Dual Heuristic Programming for Nonlinear Discrete-Time Systems</title>
+      <link>https://sunbojason.github.io/publication/jr_2022_neucom/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2022_neucom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement-Learning-Based Adaptive Optimal Flight Control with Output Feedback and Input Constraints</title>
+      <link>https://sunbojason.github.io/publication/jr_2021_jgcd/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2021_jgcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent adaptive optimal control using incremental model-based global dual heuristic programming subject to partial observability</title>
+      <link>https://sunbojason.github.io/publication/jr_2021_asc/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2021_asc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Adaptive Control Using LADP and IADP Applied to F-16 Aircraft with Imperfect Measurements</title>
+      <link>https://sunbojason.github.io/publication/cf_2021_aiaa_scitech_jose/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/cf_2021_aiaa_scitech_jose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Model-Based Heuristic Dynamic Programming with Output Feedback Applied to Aerospace System Identification and Control</title>
+      <link>https://sunbojason.github.io/publication/cf_2020_ieee_ccta_1/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/cf_2020_ieee_ccta_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Launch Vehicle Discrete-Time Optimal Tracking Control using Global Dual Heuristic Programming</title>
+      <link>https://sunbojason.github.io/publication/cf_2020_ieee_ccta_2/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/cf_2020_ieee_ccta_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient method combining active learning Kriging and Monte Carlo simulation for profust failure probability</title>
+      <link>https://sunbojason.github.io/publication/jr_2020_fss_chunyan/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2020_fss_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental model-based global dual heuristic programming with explicit analytical calculations applied to flight control</title>
+      <link>https://sunbojason.github.io/publication/jr_2020_eaai/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2020_eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Model-Based Global Dual Heuristic Programming for Flight Control</title>
+      <link>https://sunbojason.github.io/publication/cf_2019_ifac_alcos/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/cf_2019_ifac_alcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient method for estimating global reliability sensitivity indices</title>
+      <link>https://sunbojason.github.io/publication/jr_2019_pem_chunyan/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2019_pem_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient numerical simulation methods for estimating fuzzy failure probability based importance measure indices</title>
+      <link>https://sunbojason.github.io/publication/jr_2019_smo_chunyan/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2019_smo_chunyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-Dimensional Nonlinear Differential Game-based Guidance Law Against High-speed Maneuvering Target</title>
+      <link>https://sunbojason.github.io/publication/jr_2018_dandao/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2018_dandao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aircraft Fault Tolerant Control</title>
+      <link>https://sunbojason.github.io/project/fault-tolerant/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/fault-tolerant/</guid>
+      <description>&lt;p&gt;With the development of aerospace engineering, aerospace systems are becoming more complex in structure, function, and working environment. Unknown conditions and even sudden faults can be encountered. This project aims at improving safety by developing advanced nonlinear control methods based on reinforcement learning and optimal control theory. The proposed control approaches have the capability of online learning and adapting to new circumstances, which enable the aircraft to tolerate actuator faults, structural damage and atmospheric disturbances.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Game-Based Guidance Law Against Higher-Speed Maneuvering Penetrator Using Model Predictive Method</title>
+      <link>https://sunbojason.github.io/publication/cf_2018_ieee_icmae/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/cf_2018_ieee_icmae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Analysis</title>
+      <link>https://sunbojason.github.io/project/reliability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/project/reliability/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
