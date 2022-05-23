@@ -5,12 +5,20 @@
     <link>https://sunbojason.github.io/publication/</link>
       <atom:link href="https://sunbojason.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019-2022</copyright><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019-2022</copyright><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sunbojason.github.io/media/icon_hu1f4ad1c3501d1dfcfc952341de7a2bc5_52264_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://sunbojason.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Vision-Based Nonlinear Incremental Control for A Morphing Wing with Mechanical Imperfections</title>
+      <link>https://sunbojason.github.io/publication/jr_2022_ieee_taes/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sunbojason.github.io/publication/jr_2022_ieee_taes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intelligent Aircraft Stabilization Control with Event-Triggered Scheme</title>
